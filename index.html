@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>WELCOME TO GHIBLI</title>
+</head>
+
+<body>
+    <h1 id="clock" class="now">00:00:00</h1>
+    <h2 id="date" class="today">0000/00/00</h2>
+
+    <form id="login-form" class="visual">
+        <span>
+            <input required maxlength="15" type="text" placeholder="What is your name?"
+                style="font-size: 30px; background-color: rgba(0, 0, 0, 0); color: black; text-align: center;" />
+            <input type="submit" value="Log In" style="font-size: 20px; background-color: pink; color: crimson;" />
+        </span>
+    </form>
+
+    <h1 id="greeting" class="hidden"></h1>
+    
+    <form id="todo-form">
+        <input type="text" placeholder="Write a To Do and Press Enter" class="todo" />
+    </form>
+    <ul id="todo-list" class="todolist"></ul>
+
+    <div id="quote">
+        <span class="quote"></span>
+        <span class="author"></span>
+    </div>
+    <div id="weather">
+        <span></span>
+        <span></span>
+    </div>
+
+    <!--<a href="https://nomadcoders.co">Go to courses</a>-->
+
+    <script src="js/greetings.js"></script>
+    <script src="js/clock.js"></script>
+    <script src="js/quotes.js"></script>
+    <script src="js/background.js"></script>
+    <script src="js/todo.js"></script>
+    <script src="js/weather.js"></script>
+
+</body>
+
+</html>

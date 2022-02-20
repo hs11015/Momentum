@@ -1,0 +1,128 @@
+<성공>
+
+quote: "A great secret of success is to go through life as a man who never gets used up."
+author: "Albert Schweitzer"
+성공의 커다란 비결은 결코 지치지 않는 인간으로 인생을 살아나가는 것이다.
+-알버트 슈바이처
+
+quote: "A goal without a plan is just a wish."
+author: "Antoine de Saint-Exupery"
+계획 없는 목표는 한낱 꿈에 불과하다.
+-생택쥐페리
+
+quote: "You are built not to shrink down to less but to blossom into more."
+author: "Oprah Winfrey"
+당신은 움츠리기보다 활짝 피어나도록 만들어진 존재입니다.
+-오프라 원프리
+
+quote: "If you can concentrate always on the present, you'll be a happy man."
+author: "Paulo Cuelho"
+언제나 현재에 집중할 수 있다면 행복할 것이다.
+-파울로 코엘료
+
+quote: "Everything comes to him who hustles while he waits."
+author: "Thomas A. Edison"
+성공은 열심히 노력하며 기다리는 사람에게 찾아온다.
+-토마스 A. 에디슨
+
+quote: "Kites rise highest against the wind - not with it."
+author: "Sir Winston Churchill"
+연은 순풍이 아니라 역풍에 가장 높이 난다.
+-윈스턴 처칠
+
+quote: "In the field of observation, chance favors only the prepared mind."
+author: "Louis Pasteur"
+관찰하는데 있어서는 준비된 자에게만 기회가 온다.
+-루이 파스퇴르
+
+
+<노력>
+
+quote: "God doesn't require us to succeed; he only requires that you try."
+author: "Mother Teresa"
+신은 우리가 성공할 것을 요구하지 않는다. 우리가 노력할 것을 요구할 뿐이다.
+-마더 테레사
+
+quote: "Just because something doesn't do what you planned it to do doesn't mean it's useless."
+author: "Thomas A. Edison"
+어떤 것이 당신이 계획대로 되지 않는 다고 해서 그것이 불필요한 것은 아니다.
+-토마스 A. 에디슨
+
+quote: "When we do the best that we can, we never know what miracle is wrought in our life, or in the life of another."
+author: "Helen Keller"
+우리가 할 수 있는 최선을 다할 때, 우리 혹은 타인의 삶에 어떤 기적이 나타나는지 아무도 모른다.
+-헬렌 켈러
+
+quote: "Someone's sitting in the shade today because someone planted a tree a long time ago."
+author: "Warren Buffett"
+오늘 누군가가 그늘에 앉아 쉴 수 있는 이유는 오래 전에 누군가가 나무를 심었기 때문이다.
+-워런 버핏
+
+
+<희망>
+quote: "Laughter is the tonic, the relief, the surcease for pain."
+author: "Charlie Chaplin"
+웃음은 강장제이고, 안정제이며, 진통제이다.
+-찰리 채플린
+
+quote: "We need men who can dream of things that never were."
+author: "John F. Kennedy"
+우리에게는 존재하지 않는 것들을 꿈꿀 수 있는 사람들이 필요하다.
+-존 F. 케네디
+
+
+<도전>
+quote: "Convictions are more dangerous enemies of truth than lies."
+author: "Friedrich Nietzsche"
+강한 신념이야말로 거짓보다 더 위험한 진리의 적이다.
+-프레드리히 니체
+
+quote: "Wheresoever you go, go with all your heart."
+author: "Confucius"
+어디를 가든지 마음알 다해 가라.
+-공자
+
+
+<자신감>
+quote: "Hide not your talents. They for use were made. What's a sundial in the shade."
+author: "Benjamin Franklin"
+자신의 능력을 감추지 마라. 재능은 쓰라고 주어진 것이다. 그늘 속의 해시계가 무슨 소용이랴.
+-벤자민 프랭클린
+
+quote: "Genius is nothing but a great capacity for patience."
+author: "Buffon"
+천재는 거대한 인내일 뿐이다.
+-뷔퐁
+
+quote: "With regard to excellence, it is not enough to know, but we must try to have and use it."
+author: "Aristotle"
+탁월하다는 것은 아는 것만으로는 충분치 않으며, 탁월해지기 위해, 이를 발휘하기 위해 노력해야 한다.
+-아리스토텔레스
+
+
+<시간>
+quote: "Employ thy time well, if thou meanest to get leisure."
+author: "Benjamin Franklin"
+여가시간을 가지려면 시간을 잘 써라.
+-벤자민 프랭클린
+
+quote: "You may delay, but time will not."
+author: "Benjamin Franklin"
+당신은 지체할 수도 있지만 시간을 그러하지 않을 것이다.
+-벤자민 프랭클린
+
+quote: "The best thing about the future is that it comes one day at a time."
+author: "Abraham Lincoln"
+미래의 가장 좋은 점은 한 번에 하루씩 온다는 것이다.
+-에이브러햄 링컨
+
+quote: "We can draw lessons from the past, but we cannot live in it."
+author: "Lyndon B. Johnson"
+과거에서 교훈을 얻을 수는 있어도 과거 속에 살 수는 없다.
+-린든 B. 존슨
+
+quote: "We know what we are, but not what we may be."
+author: "William Shakespeare"
+우리는 오늘은 이러고 있지만, 내일은 어떻게 될지 누가 알아요?
+-윌리엄 셰익스피어
+
